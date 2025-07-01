@@ -1,5 +1,5 @@
 flask==2.3.3
 flask-cors==4.0.0
-pymupdf==1.23.5
+PyMuPDF==1.22.5
 requests==2.31.0
 werkzeug==2.3.7
